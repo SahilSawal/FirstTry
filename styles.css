@@ -5,35 +5,32 @@ h1{
     text-align:start;
     color: darkgray;
 }
-h5{
-    text-align: right;
 
-}
-li {
+ 
+ ul li {
   float: left;
-  list-style: none;
-  text-align: center;
-  background-color: white;
-  margin-right: 40px;
-  width: 90px;
-  line-height: 30px;
+    list-style: none;
+    text-align: center;
+    background-color: white;
+    margin-right: 40px;
+    width: 90px;
+    line-height: 30px;
+    background-color: tan;
+    border: groove;
 
 }
-header{
-  background-color: silver;
-}
+
 
 a{
   text-decoration: none;
   text-align: right;
+  font-family: cursive;
+    color: white;
   
 }
-div.header{
-  border-radius: 40%;
-  background-color: peru;
-   
+
   
-}
+
 footer div{
     
     background-color: darkslategrey;
@@ -102,7 +99,10 @@ h4{
   
   /* Hide the images by default */
   .mySlides {
-    display: none;
+    display:none;
+  }
+  a:hover{
+    color:darkgray;
   }
   
   /* Next & previous buttons */
