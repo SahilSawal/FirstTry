@@ -29,7 +29,7 @@
 // document.write(person.hairColor);
 
 //ARRAY FUNCTIONS
-// var FisrtArray= ['sahil','sawal','priyanka','wedding',12,"october",2026];
+// var FisrtArray= ['sahil','sawal','priyanka','hello',12,"october",2026];
 // console.log(FisrtArray[0]);
 // document.write(FisrtArray[4]);
 // console.log (FisrtArray.lastIndexOf(12,3));
